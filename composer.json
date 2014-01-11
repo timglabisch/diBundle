@@ -18,6 +18,6 @@
         "phpunit/phpunit": "~3.7.0"
     },
     "autoload": {
-        "psr-0": {"Tg\\DiBundle": "tg\\di-bundle"}
+        "psr-0": {"Tg\\DiBundle": "src"}
     }
 }
