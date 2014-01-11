@@ -1,5 +1,5 @@
 {
-    "name": "tg\\DiBundle",
+    "name": "tg/di-bundle",
     "description": "very easy bundle to inject services using controller annotations",
     "keywords": ["dependency injection"],
     "homepage": "http://github.com/timglabisch/diBundle",
